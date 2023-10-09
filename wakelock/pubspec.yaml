@@ -4,6 +4,7 @@ description: >-2
   Android, iOS, macOS, Windows, and web.
 version: 0.6.2
 repository: https://github.com/creativecreatorormaybenot/wakelock/tree/main/wakelock
+publish_to: 'none'
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
